@@ -75,7 +75,7 @@ $ pkg up -y && pkg install openssl-tool && pkg install curl && pkg install git &
 
 ### Development by
 
-Developer / Author: [Mr. Bee](https://www.instagram.com/bhikan_deshmukh/)
+Developer / Author: [Goodshi)
 
 ### <h2 align="center">To Know about Ethical Hacking , Android And Kali Linux Do ♨️ Follow ♨️ Us:-</h2>
 <p align="center">
