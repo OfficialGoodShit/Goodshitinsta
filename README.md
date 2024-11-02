@@ -9,7 +9,7 @@
 
   <br>
 
-###### <p align="center"> INSTARAT
+###### <p align="center"> GOODSHIT INSTANT
 <br>
 
 <img src="https://i.imgur.com/ojEA1aj.jpg"></p>
@@ -25,11 +25,11 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/bhikandeshmukh/instarat">
 
 ###### <p align="center">*This is official repository maintained by us*
-###### <p align="center"> *[**Mr. Bee**](https://www.instagram.com/bhikan_deshmukh/) ❤️*
+###### <p align="center"> *[**GoodShit**](https://www.instagram.com/bhikan_deshmukh/) ❤️*
 ###### <p align="center"> *You can check [Instagram](https://www.instagram.com/bhikan_deshmukh)✌*
 
 ### What is instarat??
-INSTARAT is powered by aladdin coded by @bhikan_deshmukh. Instarat help u for increasing Instagram followers
+INSTARAT is powered by GoodShit coded by @GoodShit. Instarat help u for increasing Instagram followers
 
 ### Requirements :-
 
